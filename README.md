@@ -9,5 +9,5 @@ My name is Kaan,and I`m an Data Science,Fintech & Python enthusiast
 Skills
 
     🐍 Python: pandas, numpy, scikit-learn, 
-    📊 Data Viz: matplotlib, seaborn
+    📊 Data Viz: matplotlib, seaborn, ggplot,Bokeh
 
