@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-I'm Kaan, a Data & Financial Analyst based in Luxembourg, applying machine learning to fraud detection, risk, and AML-adjacent problems.
+I'm Kaan, a Data Scientist based in Luxembourg, focused on machine learning for anomaly detection, predictive analytics, and customer/behavioral insights.
 
-- 🔭 Currently building ML projects around fraud detection and anti-money laundering
-- 🌱 Learning AI, Python, and Data Science through Digital Learning Hub Luxembourg
-- 💼 Background in Finance, Banking, and Customer Analytics (KPMG, Rakuten, Invesco, VakıfBank)
-- 👯 Open to collaborating on Data Science projects in Finance, RegTech, and Risk Analytics
+- 🔭 Currently building ML models for anomaly and pattern detection in large-scale transactional data
+- 🌱 Learning AI, Python, and Data Science through the Digital Learning Hub Luxembourg
+- 💼 Background spans customer analytics, behavioral modeling, and risk/anomaly detection across finance, retail, and telecom (KPMG, Rakuten, Invesco, VakıfBank, Pronet)
+- 👯 Open to Data Science / Analytics roles in Consumer Goods, Media, Manufacturing, and Aerospace
 - 📫 Reach me at [kkaankartal@gmail.com](mailto:kkaankartal@gmail.com)
 
 ### Featured Project
-🔍 [Fraud Detection with XGBoost](https://github.com/kaankartalk/fraud-detection) — an end-to-end ML pipeline on 1.85M transactions, achieving 0.91 precision / 0.76 recall on fraud classification.
+
+🔍 **[Anomaly Detection at Scale with XGBoost](https://github.com/kaankartalk/fraud-detection)** — an end-to-end ML pipeline detecting rare-event patterns across 1.85M transactions, achieving 0.91 precision / 0.76 recall. Methodology generalizes to any high-volume anomaly detection problem: quality defects, sensor faults, churn, fraud.
 
 ### Tech Stack
 
-- 🐍 **Python:** pandas, numpy, scikit-learn, XGBoost.
-- 📊 **Data Viz:** matplotlib, seaborn.
-- 🧠 **ML:** Classification, Decision Trees, Gradient Boosting, Model Evaluation (Precision/Recall/F1).
-- 🛠️ **Tools:** Jupyter, Git/GitHub, Kaggle API.
+- 🐍 **Python:** pandas, numpy, scikit-learn, XGBoost
+- 📊 **Data Viz:** matplotlib, seaborn
+- 🧠 **ML:** classification, decision trees, gradient boosting, model evaluation (precision/recall/F1)
+- 🛠️ **Tools:** Jupyter, Git/GitHub, Kaggle API
