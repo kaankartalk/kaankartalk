@@ -13,7 +13,7 @@ I'm Kaan, a Data & Financial Analyst based in Luxembourg, applying machine learn
 
 ### Tech Stack
 
-🐍 **Python:** pandas, numpy, scikit-learn, XGBoost
-📊 **Data Viz:** matplotlib, seaborn
-🧠 **ML:** Classification, Decision Trees, Gradient Boosting, Model Evaluation (Precision/Recall/F1)
-🛠️ **Tools:** Jupyter, Git/GitHub, Kaggle API
+🐍 **Python:** pandas, numpy, scikit-learn, XGBoost.
+📊 **Data Viz:** matplotlib, seaborn.
+🧠 **ML:** Classification, Decision Trees, Gradient Boosting, Model Evaluation (Precision/Recall/F1).
+🛠️ **Tools:** Jupyter, Git/GitHub, Kaggle API.
