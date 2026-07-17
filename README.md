@@ -1,20 +1,24 @@
 ### Hi there 👋
 
-I'm Kaan, a Data Scientist based in Luxembourg, focused on machine learning for anomaly detection, predictive analytics, and customer/behavioral insights.
+I'm Kaan — based in Luxembourg, focused on the strategic side of business: where to allocate resources, which risks are worth taking, and which numbers actually deserve a decision behind them.
 
-- 🔭 Currently building ML models for anomaly and pattern detection in large-scale transactional data
-- 🌱 Learning AI, Python, and Data Science through the Digital Learning Hub Luxembourg
-- 💼 Background spans customer analytics, behavioral modeling, and risk/anomaly detection across finance, retail, and telecom (KPMG, Rakuten, Invesco, VakıfBank, Pronet)
-- 👯 Open to Data Science / Analytics roles in Consumer Goods, Media, Manufacturing, and Aerospace
+- 🎯 Interested in strategy, decision-making, and business analytics across finance, space, and consumer sectors
+- 🛠️ Data and modeling are tools I use to sharpen those decisions, not a job title — see the projects below for the depth behind the thinking
+- 💼 Background spans customer analytics, risk, and behavioral insight across finance, retail, and telecom (KPMG, Rakuten, Invesco, VakıfBank, Pronet)
+- 👯 Open to roles in strategy, business analytics, and consulting across Consumer Goods, Media, Manufacturing, and Aerospace
+- 🌐 Portfolio: [kaankartalkuyucu.com](https://kaankartalkuyucu.com)
 - 📫 Reach me at [kkaankartal@gmail.com](mailto:kkaankartal@gmail.com)
 
 ### Featured Project
 
-🔍 **[Anomaly Detection at Scale with XGBoost](https://github.com/kaankartalk/fraud-detection)** — an end-to-end ML pipeline detecting rare-event patterns across 1.85M transactions, achieving 0.91 precision / 0.76 recall. Methodology generalizes to any high-volume anomaly detection problem: quality defects, sensor faults, churn, fraud.
+📈 **[Store Sales Demand Forecasting](https://github.com/kaankartalk/store-sales-forecasting)** — a forecasting pipeline for a 54-store, 33-category retail chain, built around the actual business question: where should inventory go, and what does getting the forecast wrong actually cost.
 
-### Tech Stack
+### Also Worth a Look
 
-- 🐍 **Python:** pandas, numpy, scikit-learn, XGBoost
-- 📊 **Data Viz:** matplotlib, seaborn
-- 🧠 **ML:** classification, decision trees, gradient boosting, model evaluation (precision/recall/F1)
-- 🛠️ **Tools:** Jupyter, Git/GitHub, Kaggle API
+🔍 **[Fraud Detection at Scale](https://github.com/kaankartalk/fraud-detection)** — precision/recall-focused fraud classification across 1.85M transactions (0.91 precision / 0.76 recall).
+
+### Toolkit
+
+- 🐍 **Python:** pandas, numpy, scikit-learn, XGBoost, LightGBM
+- 📊 **Analysis & Viz:** matplotlib, seaborn, Plotly
+- 🛠️ **Tools:** Git/GitHub, Jupyter, Kaggle API
