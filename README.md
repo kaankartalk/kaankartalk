@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-I'm Kaan — based in Luxembourg, focused on the strategic side of business: where to allocate resources, which risks are worth taking, and which numbers actually deserve a decision behind them.
+I'm Kaan — a Product Owner based in Luxembourg, focused on turning business
+requirements into shipped digital products: requirements clarification,
+sprint planning, UAT coordination, and stakeholder alignment across
+business, IT, and vendors.
 
-- 🎯 Interested in strategy, decision-making, and business analytics across finance, space, and consumer sectors
-- 🛠️ Data and modeling are tools I use to sharpen those decisions, not a job title — see the projects below for the depth behind the thinking
-- 💼 Background spans customer analytics, risk, and behavioral insight across finance, retail, and telecom (KPMG, Rakuten, Invesco, VakıfBank, Pronet)
-- 👯 Open to roles in strategy, business analytics, and consulting across Consumer Goods, Media, Manufacturing, and Aerospace
-- 🌐 Portfolio: [kaankartalkuyucu.com](https://kaankartalkuyucu.com)
-- 📫 Reach me at [kkaankartal@gmail.com](mailto:kkaankartal@gmail.com)
+- 🎯 Background spans product ownership, business analysis, and process
+  delivery across banking, telecom, and fintech (KPMG, Rakuten, Invesco,
+  Vakıfbank, Pronet, Prodea — incl. SAP SD module rollouts)
+- 🔧 I use data and analytics as tools to make sharper product decisions —
+  not as an end in themselves. The projects below show that thinking
+  applied to real problems (churn, forecasting, risk)
+- 🚀 Currently deepening Agile/Scrum practice (PSPO I in progress) and
+  building an AML/RegTech-focused portfolio
+- 🌍 Portfolio: [kaankartalkuyucu.com](https://kaankartalkuyucu.com)
+- 📫 Reach me at kkaankartal@gmail.com
 
-### Toolkit
-
-- 🐍 **Python:** pandas, numpy, scikit-learn, XGBoost, LightGBM
-- 📊 **Analysis & Viz:** matplotlib, seaborn, Plotly
-- 🛠️ **Tools:** Git/GitHub, Jupyter, Kaggle API
+### What I bring to a product team
+- Business analysis & requirements clarification
+- Sprint planning, backlog management, release coordination
+- UAT coordination and production validation
+- Cross-functional stakeholder management (business, IT, vendors)
+- Comfortable going deep into the data/technical side when needed
