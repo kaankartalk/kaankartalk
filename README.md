@@ -5,7 +5,7 @@ I'm Kaan — a Sales, Customer Experience & Business Development professional ba
 * 📊 I let the data tell me where to focus: which customers are at risk, which accounts are worth chasing, where the pipeline needs cleaning up — then I go have the conversation
 * 🤝 My strength is the bridge between the two: I don't just read a report, I act on it — reaching out, building the relationship, and closing the loop
 * 🚀 Currently building out my portfolio and deepening my customer analytics and business development toolkit
-* 🌍 Portfolio: [kaankartalkuyucu.com](https://kaankartalkuyucu.com/)
+* 🌍 Portfolio: [kaankartalkuyucu.com](https://www.kaankartalkuyucu.com)
 * 📫 Reach me at [kkaankartal@gmail.com](mailto:kkaankartal@gmail.com)
 
 What I bring to a team
